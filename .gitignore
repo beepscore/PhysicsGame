@@ -1,0 +1,19 @@
+# Ref http://shanesbrain.net/2008/7/9/using-xcode-with-git
+# http://gist.github.com/137348
+
+# old skool
+.svn
+
+# osx noise
+.DS_Store
+*.swp
+profile
+
+# xcode noise
+*~.nib
+*.mode1v3
+*.mode2v3
+*.pbxuser
+*.perspective
+*.perspectivev3
+build/
